@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-image: url("https://previews.123rf.com/images/mlyr/mlyr1904/mlyr190400045/121785667-abstract-vector-watermark-colored-technology-background-guilloche-art-line-design-pastel-purple-beig.jpg")
+            }
+        </style>
+    </head>
+<body>
+    <div style="text-align:center">
+    <h1>I will tell you a bit more about myself here.</h1>
+    <br>
+    <br>
+    <p1>I am 13 years old and I am trying to learn more programming and hacking for good. I have always been interested in computers and at a young age they always fascinated me, so I decided to start learning how to code because making programs and games and helping other people sounds like a very fun thing to do. So far I really have been enjoying the learning process. My favorite operating systems are Windows and Linux (xubuntu to be specific).</p1>
+    </div>
+    <br>
+    <br>
+    <br>
+    <a href="index.html" target="_self"> Previous Page</a>
+    <br>
+    <a href="page3.html" target-"_self"> Next Page</a>
+</body>
