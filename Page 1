@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-image: url("https://previews.123rf.com/images/mlyr/mlyr1904/mlyr190400045/121785667-abstract-vector-watermark-colored-technology-background-guilloche-art-line-design-pastel-purple-beig.jpg")
+            }
+        </style>
+    </head>
+<body>
+
+    <div style="text-align:center">
+        <h1>Peyton's Website</h1>
+        <h2>Welcome to my website!</h2>
+    </div>
+    <br>
+    <div style="text-align:center">
+        <p1>My name is Peyton and I am relatively new to coding and want to learn more. The languages I am currently
+            learning are Python, HTML, and SQL.</p1>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div></div>
+    <a href=https://github.com/peyton33/peyton33> Github</a>
+    <br>
+    <a href=https://www.twitch.tv/peyton426> Twitch</a>
+    <br>
+    <a href=https://www.youtube.com/channel/UCnywIGc0F4N7zu1siZdKjcw> Youtube</a>
+    <br>
+    <br>
+    <p2>If you need to contact me email me at protoblack37@gmail.com</p2>
+    <br>
+    <br>
+    </div>
+    <a href="page2.html" target="_self"> Next Page</a>
+    
+</body>
